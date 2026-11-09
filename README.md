@@ -1,6 +1,6 @@
 # app-dev
-##My first repository
-###My Favorite Movie: WALL-E
+My first repository
+**My Favorite Movie: WALL-E**
  
 **Movie Information**
 Title: **WALL-E**
